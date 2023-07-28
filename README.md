@@ -30,11 +30,11 @@ liq-uniqueitems is a resource that opens up a world of creative possibilities fo
 
 Item Locked 
 
-![](https://cdn.discordapp.com/attachments/523080900259610634/1134612271155396648/helmetoff.gif)
+![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/helmetoff.gif)
 
 Item UnLocked 
 
-![](https://cdn.discordapp.com/attachments/523080900259610634/1134612270551404595/helmeton.gif)
+![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/helmeton.gif)
 
 
 # **Configuration ** !   
