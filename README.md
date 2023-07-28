@@ -103,11 +103,19 @@ Add the following code to ``` QBCore.Player.CheckPlayerData ```  to the METADATA
 
 2. Go to ```QB-CORE > SERVER > PLAYER.LUA```  Add the following function around the line 290 where the meta functions are
 ```lua
- function self.Functions.ChangeUniqueClothing(name,number)
+function self.Functions.ChangeUniqueClothing(name,number)
         if not number and not name then return end
         number = tonumber(number)
         name = name:lower()
         self.PlayerData.metadata['liq-uniqueitems'][name .. number] = number
+        self.Functions.UpdatePlayerData()
+    end
+
+    function self.Functions.RemoveUniqueClothing(name,number)
+        if not number and not name then return end
+        number = tonumber(number)
+        name = name:lower()
+        self.PlayerData.metadata['liq-uniqueitems'][name .. number] = nil
         self.Functions.UpdatePlayerData()
     end
 ```
@@ -115,7 +123,7 @@ Add the following code to ``` QBCore.Player.CheckPlayerData ```  to the METADATA
 **The code should look like this:**
 
 
-![Image](https://user-images.githubusercontent.com/107668517/256885239-7058dbe4-e25f-4809-8d52-8eedc598b921.png)
+![Image](https://cdn.discordapp.com/attachments/695326730847649792/1134590908491387040/image.png)
 
 
 3. Drop the script to your resource file and start the server ^_^
