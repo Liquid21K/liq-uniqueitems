@@ -123,7 +123,7 @@ function self.Functions.ChangeUniqueClothing(name,number)
 **The code should look like this:**
 
 
-![Image](https://cdn.discordapp.com/attachments/695326730847649792/1134590908491387040/image.png)
+![Image](https://cdn.discordapp.com/attachments/695326730847649792/1134616178569003050/image.png)
 
 
 3. Drop the script to your resource file and start the server ^_^
