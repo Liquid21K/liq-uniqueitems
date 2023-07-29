@@ -59,6 +59,19 @@ If Player put locked clothes what you want it to be replaced with
 What clothing you want to lock so players will need the right item for them
 > (yes i know i forgot the e in items)
 
+
+**Optional**
+|
+|
+V
+- Config.RandomDrop = true -------  True - enable random drop | False - disable random drop
+
+- Config.TickTime = 10 ----------- What time you want the item to drop | Goes by hours | 10h by default
+
+- Config.RandomItemDrop  ----------  the random items to drop when ticktime goes to 0
+  
+
+
 # Admin Commands
 removeclothing | playerid | category | number - removes players unlocked clothing
 addclothing | playerid | category | number - add player a locked clothing
