@@ -66,6 +66,8 @@ addclothing | playerid | category | number - add player a locked clothing
 You have 6 Category`s to choose from: pants, mask, hat, chain, shoes, bag , tshirt, torso
 
 
+# Make Clothing usable as items
+
 ```Server --> UsableItems.lua ```
 
 This is the file to make the Items be usable
