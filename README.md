@@ -167,7 +167,9 @@ items :
 inventory img: https://github.com/fazitanvir/items-images/tree/main/clothing
 
 models :
+
 jordan - https://www.gta5-mods.com/player/shoes-air-jordan-template-fivem-ready-mp-male-femal-baskets-packs
+
 converse - https://www.gta5-mods.com/player/converse-replace-fivem-rage-mp-for-male-female
 
 
