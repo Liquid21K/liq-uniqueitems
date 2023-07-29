@@ -52,12 +52,19 @@ liq-uniqueitems is a resource that opens up a world of creative possibilities fo
 
 ```Config.lua```
 
-- Config.SetClothing  
+- Config.SetClothing  | You have a male and a female config
 If Player put locked clothes what you want it to be replaced with
 
-- Config.UniqueItms 
+- Config.UniqueItms | You have a male and a female config
 What clothing you want to lock so players will need the right item for them
 > (yes i know i forgot the e in items)
+
+# Admin Commands
+removeclothing | playerid | category | number - removes players unlocked clothing
+addclothing | playerid | category | number - add player a locked clothing
+
+You have 6 Category`s to choose from: pants, mask, hat, chain, shoes, bag , tshirt, torso
+
 
 ```Server --> UsableItems.lua ```
 
@@ -78,7 +85,7 @@ end)
 ```
 
 Change the ```item``` to your  ,in Category change to the one you want, and for number add the clothing number to set
-You have 6 Category`s to choose from: pants, mask, hat, chain, shoes, bag
+You have 6 Category`s to choose from: pants, mask, hat, chain, shoes, bag , tshirt, torso
 
 # Example how it should look like
 
