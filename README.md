@@ -28,7 +28,7 @@ liq-uniqueitems is a resource that opens up a world of creative possibilities fo
 
 # ** Preview**
 
-Item Unlocked 
+**Item Unlocked**
 
 ![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/preview/helmeton.gif)
 
@@ -37,13 +37,13 @@ Item Unlocked
 
 
 
-Item Locked 
+**Item Locked** 
 
 ![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/preview/helmetoff.gif)
 
 ![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/preview/shoesoff.gif)
 
-Item Drop | **Optinal**
+**Item Drop** | ****Optinal****
 
 ![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/preview/drop.gif)
 
