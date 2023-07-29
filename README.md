@@ -28,14 +28,22 @@ liq-uniqueitems is a resource that opens up a world of creative possibilities fo
 
 # ** Preview**
 
+Item Unlocked 
+
+![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/helmeton.gif)
+
+![](https://github.com/Liquid21K/liq-uniqueitems/tree/main/preview/shoeon.gif)
+
+
 Item Locked 
 
 ![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/helmetoff.gif)
 
-Item UnLocked 
+![](https://github.com/Liquid21K/liq-uniqueitems/tree/main/preview/shoesoff.gif)
 
-![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/helmeton.gif)
+Item Drop | **Optinal**
 
+![](https://github.com/Liquid21K/liq-uniqueitems/tree/main/preview/drop.gif)
 
 # **Configuration ** !   
   The Configuration part is pretty simple to do but pay attention!
