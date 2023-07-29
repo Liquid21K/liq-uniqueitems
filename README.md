@@ -141,4 +141,27 @@ function self.Functions.ChangeUniqueClothing(name,number)
 
 
 
+# If you want to use my template 
+> jodrans, converse, and helmet
+
+items :
+```lua
+['spikehelmet'] 						 = {['name'] = 'spikehelmet', 						['label'] = 'Spike Helmet', 					['weight'] = 0, 		['type'] = 'item', 		['image'] = 'helmet_89.png', 			['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Spike helmet 89'},
+
+['jordanshoes'] 						 = {['name'] = 'jordanshoes', 						['label'] = 'Jordan Shoes', 					['weight'] = 0, 		['type'] = 'item', 		['image'] = 'jordan6s2.png', 			['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Jordan Shoes'},
+
+['converseshoes'] 						 = {['name'] = 'converseshoes', 						['label'] = 'Converse Shoes', 					['weight'] = 0, 		['type'] = 'item', 		['image'] = 'shoes.png', 			['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Converse Shoes'},
+
+
+```
+
+inventory img: https://github.com/fazitanvir/items-images/tree/main/clothing
+
+models :
+jordan - https://www.gta5-mods.com/player/shoes-air-jordan-template-fivem-ready-mp-male-femal-baskets-packs
+converse - https://www.gta5-mods.com/player/converse-replace-fivem-rage-mp-for-male-female
+
+
+
+
 ![Image](https://user-images.githubusercontent.com/107668517/256880739-3ab5aece-ab64-4bc2-b301-bbb81e1043d9.gif)
