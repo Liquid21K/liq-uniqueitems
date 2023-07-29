@@ -30,20 +30,22 @@ liq-uniqueitems is a resource that opens up a world of creative possibilities fo
 
 Item Unlocked 
 
-![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/helmeton.gif)
+![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/preview/helmeton.gif)
 
-![](https://github.com/Liquid21K/liq-uniqueitems/tree/main/preview/shoeon.gif)
+![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/preview/shoeon.gif)
+
+
 
 
 Item Locked 
 
-![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/helmetoff.gif)
+![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/preview/helmetoff.gif)
 
-![](https://github.com/Liquid21K/liq-uniqueitems/tree/main/preview/shoesoff.gif)
+![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/preview/shoesoff.gif)
 
 Item Drop | **Optinal**
 
-![](https://github.com/Liquid21K/liq-uniqueitems/tree/main/preview/drop.gif)
+![](https://github.com/Liquid21K/liq-uniqueitems/blob/main/preview/drop.gif)
 
 # **Configuration ** !   
   The Configuration part is pretty simple to do but pay attention!
